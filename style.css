@@ -1,0 +1,27 @@
+ul{
+    list-style: square;
+    font-size: 0;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+  }
+  ul li{
+    display: inline-block;
+  
+  }
+  ul li a{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .links{
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    text-transform: uppercase;
+    box-shadow: 5px 5px 10px rgba(85, 80, 80, 0.562);
+  }
